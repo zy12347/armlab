@@ -27,3 +27,4 @@ autonomous arm has a high level of accuracy and efficiency,
 making it suitable for a variety of applications in fields such
 as manufacturing, service robots, and areas of collaborative
 robotics
+![fe3b2f2002fa33fb4508b4778c4d3b5](https://github.com/zy12347/armlab/assets/77594208/cccd7c8d-831e-4408-85fa-0dbe1b528eee)
