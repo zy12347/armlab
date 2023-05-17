@@ -13,7 +13,7 @@ kinematics, and path planning to manipulate the desired
 objects. The arm is equipped with sensors and algorithms
 that allow it to perceive and respond to changes in its
 surroundings in real time. There are numerous approaches
-to automating a robotic arm, including utilizing Convolutional Neural Networks to continually learn and train
+to automating a robotic arm, including utilizing Convolutional Neural Networks to continually learn and train
 from the data it receives, thereby enabling it to improve
 its performance over time. Our arm’s design incorporates
 inverse kinematics to determine appropriate end effector
